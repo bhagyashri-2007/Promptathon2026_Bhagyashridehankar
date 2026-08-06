@@ -1,6 +1,6 @@
 # Promptathon2026_Bhagyashridehankar
 # 🏥 AAROGYA AI
-
+# to visit the site click the link :   https://intelligent-care-companion.lovable.app
 ## Your Intelligent Virtual Healthcare Companion
 
 AAROGYA AI is a premium healthcare web application that demonstrates the power of Agentic AI in assisting users with symptom analysis, intelligent medical conversations, personalized recommendations, and secure health record management.
