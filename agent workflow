@@ -1,1 +1,59 @@
 
+# Agent Workflow
+
+## Multi-Agent Architecture
+
+User Input
+
+↓
+
+Symptom Analysis Agent
+
+Purpose:
+- Detect symptoms
+- Identify possible health conditions
+
+↓
+
+Follow-up Question Agent
+
+Purpose:
+- Ask relevant medical questions
+- Collect missing information
+
+↓
+
+Medical Knowledge Agent
+
+Purpose:
+- Analyze symptoms using medical knowledge
+- Generate contextual understanding
+
+↓
+
+Planning Agent
+
+Purpose:
+- Determine urgency level
+- Plan next actions
+
+↓
+
+Recommendation Agent
+
+Purpose:
+- Generate personalized health advice
+- Suggest whether to visit a doctor
+
+↓
+
+Memory Agent
+
+Purpose:
+- Store conversation history
+- Save health records
+- Personalize future interactions
+
+↓
+
+Final Healthcare Advice
