@@ -1,1 +1,55 @@
 
+# Prompt Document
+
+## Project Name
+
+AAROGYA AI
+
+---
+
+## Objective
+
+Design and develop a premium responsive landing page for an Agentic AI Virtual Healthcare Assistant that demonstrates collaboration among multiple AI agents to provide intelligent healthcare support.
+
+---
+
+## Prompt Used
+
+You are an expert React, Tailwind CSS, and UI/UX developer.
+
+Build a premium responsive landing page for "AAROGYA AI" – an Agentic AI Virtual Health Assistant.
+
+Objective:
+Create a modern healthcare AI website that demonstrates multiple AI agents working together.
+
+Include:
+
+- Hero Section
+- About Section
+- AI Agents
+- Workflow
+- Interactive Chatbot
+- Features
+- Tech Stack
+- Footer
+- Login Page
+- Health Record Management
+
+Technology:
+
+- React
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+
+Design Requirements:
+
+- Premium UI
+- Glassmorphism
+- Blue & White Theme
+- Dark Mode
+- Responsive Layout
+- Sticky Navbar
+- Smooth Animations
+
+Generate clean production-ready React code.
